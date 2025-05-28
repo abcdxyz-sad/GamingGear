@@ -23,6 +23,8 @@ namespace CuaHangGamingGear.Main
         frmHoaDon hoaDon = null;
         string hoVaTenNhanVien = "";
         frmNhanVien nhanVien = null;
+        private string tenDangNhap = null;
+
         public frmMain()
         {
             InitializeComponent();
@@ -70,6 +72,7 @@ namespace CuaHangGamingGear.Main
                         if (BCrypt.Net.BCrypt.Verify(matKhau, nhanVien.MatKhau))
                         {
                             hoVaTenNhanVien = nhanVien.HoVaTen;
+                            tenDangNhap = nhanVien.TenDangNhap;
 
                             btnLogin.Visible = false;
                             btnLogout.Visible = true;
@@ -106,6 +109,40 @@ namespace CuaHangGamingGear.Main
 
             // Hiển thị thông tin trên thanh trạng thái 
             lblTrangThai.Text = "Chưa đăng nhập.";
+
+            hoVaTenNhanVien = null;
+
+            // Nếu frmHoaDon, frmKhachHang, hoặc các form khác có sử dụng tên đăng nhập, hãy loại bỏ chúng
+            if (hoaDon != null)
+            {
+                hoaDon.Dispose();
+                hoaDon = null;
+            }
+
+            if (khachHang != null)
+            {
+                khachHang.Dispose();
+                khachHang = null;
+            }
+
+            if (banHang != null)
+            {
+                banHang.Dispose();
+                banHang = null;
+            }
+
+            if (nhanVien != null)
+            {
+                nhanVien.Dispose();
+                nhanVien = null;
+            }
+
+            if (dangNhap != null)
+            {
+                dangNhap.txtTenDangNhap.Text = "";
+                dangNhap.txtMatKhau.Text = "";
+                dangNhap = null;
+            }
         }
 
         public void QuyenQuanLy()
@@ -147,6 +184,7 @@ namespace CuaHangGamingGear.Main
                 btnLogin.Visible = true;
                 panelShow.Controls.Clear();
                 ChuaDangNhap();
+
             }
         }
 

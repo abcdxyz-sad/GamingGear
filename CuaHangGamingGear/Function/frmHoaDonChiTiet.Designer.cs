@@ -380,6 +380,7 @@
             Name = "frmHoaDonChiTiet";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Hóa đơn chi tiết";
+            FormClosed += frmHoaDonChiTiet_FormClosed;
             Load += frmHoaDonChiTiet_Load;
             ((System.ComponentModel.ISupportInitialize)numSoLuongBan).EndInit();
             ((System.ComponentModel.ISupportInitialize)numDonGiaBan).EndInit();

@@ -297,3 +297,4 @@ I:\Linh tinh\.Net skibidi\CuaHangGamingGear\CuaHangGamingGear\bin\Debug\net8.0-w
 I:\Linh tinh\.Net skibidi\CuaHangGamingGear\CuaHangGamingGear\bin\Debug\net8.0-windows\Help\sanpham.html
 I:\Linh tinh\.Net skibidi\CuaHangGamingGear\CuaHangGamingGear\bin\Debug\net8.0-windows\Help\thongke.html
 I:\Linh tinh\.Net skibidi\CuaHangGamingGear\CuaHangGamingGear\bin\Debug\net8.0-windows\Images\rog.jpg
+I:\Linh tinh\.Net skibidi\CuaHangGamingGear\CuaHangGamingGear\obj\Debug\net8.0-windows\CuaHangGamingGear.sourcelink.json

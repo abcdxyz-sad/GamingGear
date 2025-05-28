@@ -530,5 +530,10 @@ namespace CuaHangGamingGear
             pictureBox2.BringToFront();
             pictureBox1.SendToBack();
         }
+
+        private void frmHoaDonChiTiet_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            tenDangNhapHienTai = null;
+        }
     }
 }

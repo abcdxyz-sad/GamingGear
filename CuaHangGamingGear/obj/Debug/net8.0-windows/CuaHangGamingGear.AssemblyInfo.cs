@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CuaHangGamingGear")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51bc970b295d547ac0bd00bc78ce2c8c670c0f29")]
 [assembly: System.Reflection.AssemblyProductAttribute("CuaHangGamingGear")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CuaHangGamingGear")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
