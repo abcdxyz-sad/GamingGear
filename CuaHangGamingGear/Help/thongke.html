@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hướng dẫn thống kê doanh thu</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1, h2 {
+            color: #2c3e50;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+        .note {
+            color: #e74c3c;
+            font-style: italic;
+        }
+        .filter-area {
+            background-color: #f9f9f9;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            padding: 8px 15px;
+            margin: 5px;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .highlight {
+            font-weight: bold;
+            background-color: #e6f7ff;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hướng dẫn sử dụng - Thống kê doanh thu</h1>
+
+    <div class="filter-area">
+        <h2>1. Lọc dữ liệu thống kê</h2>
+        <ol>
+            <li>Nhập <strong>Từ ngày</strong> và <strong>Đến ngày</strong> để lọc theo khoảng thời gian</li>
+            <li>Chọn <button>Hiện tất cả</button> để xem toàn bộ dữ liệu</li>
+            <li>Nhấn <button>Lọc kết quả</button> để áp dụng bộ lọc</li>
+        </ol>
+        <p class="note">Lưu ý: Các trường lọc là tùy chọn, có thể bỏ trống nếu muốn xem tất cả</p>
+    </div>
+
+    <h2>2. Xem báo cáo thống kê</h2>
+    <p>Kết quả thống kê sẽ hiển thị dưới dạng bảng bao gồm:</p>
+    <ul>
+        <li>Thời gian thống kê (tất cả thời gian hoặc theo khoảng đã chọn)</li>
+        <li>Ngày lập báo cáo</li>
+        <li>Danh sách chi tiết các giao dịch</li>
+    </ul>
+
+    <table>
+        <thead>
+            <tr>
+                <th>TT</th>
+                <th>Nhân viên</th>
+                <th>Khách hàng</th>
+                <th>Ngày lập</th>
+                <th>Tổng tiền</th>
+                <th>Ghi chú</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Trần Văn Thiển</td>
+                <td>Lê Văn C</td>
+                <td>22/04/2025</td>
+                <td>3,930,000</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Nguyễn Văn B</td>
+                <td>Bùi Thị F</td>
+                <td>14/04/2025</td>
+                <td>11,020,000</td>
+                <td></td>
+            </tr>
+            <tr class="highlight">
+                <td><strong>3</strong></td>
+                <td><strong>Trần Văn Thiển</strong></td>
+                <td><strong>Hoàng Văn E</strong></td>
+                <td><strong>15/04/2025</strong></td>
+                <td><strong>7,330,000</strong></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p class="note">Lưu ý: Dữ liệu thống kê được tính đến thời điểm hiện tại khi báo cáo được tạo</p>
+</body>
+</html>

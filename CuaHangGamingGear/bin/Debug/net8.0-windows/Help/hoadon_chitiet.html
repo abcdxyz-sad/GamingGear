@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Hướng dẫn sử dụng - Hóa đơn chi tiết</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #2980b9;
+            margin-top: 25px;
+        }
+        .section {
+            margin-bottom: 30px;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border-radius: 5px;
+            border-left: 4px solid #3498db;
+        }
+        .button {
+            display: inline-block;
+            padding: 6px 12px;
+            color: #333;
+            background-color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 14px;
+            font-weight: 500;
+            border: 1px solid #ccc;
+            cursor: pointer;
+            min-width: 100px;
+            text-align: center;
+        }
+        .button.save { background-color: white; border-color: #3498db; color: #3498db; }
+        .button.print { background-color: white; border-color: #ccc; }
+        .button.exit { background-color: #f44336; color: white; border-color: #d32f2f; }
+        .button.refresh { background-color: white; border-color: #ccc; }
+        .button.confirm { background-color: white; color:black; border-color: gray; }
+        .button.delete { background-color: #f44336; color: white; border-color: #d32f2f; }
+        .note { background-color: #fffde7; padding: 10px; border-left: 4px solid #ffd600; margin-top: 15px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hướng dẫn sử dụng - Hóa đơn chi tiết</h1>
+
+        <div class="section">
+            <h2>1. Nhập thông tin hóa đơn</h2>
+            <ul>
+                <li><strong>Nhân viên lập</strong>: chọn từ danh sách nhân viên hệ thống.</li>
+                <li><strong>Khách hàng</strong>: chọn khách hàng thực hiện giao dịch.</li>
+                <li><strong>Ghi chú hóa đơn</strong>: nhập ghi chú nếu có (không bắt buộc).</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>2. Thêm sản phẩm vào hóa đơn</h2>
+            <ol>
+                <li>Chọn <strong>Sản phẩm</strong> từ danh sách.</li>
+                <li>Nhập <strong>Đơn giá bán</strong> và <strong>Số lượng bán</strong>.</li>
+                <li>Nhấn <span class="button confirm">Xác nhận bán</span> để thêm vào danh sách.</li>
+                <li>Muốn xóa sản phẩm đã chọn, nhấn <span class="button delete">Xóa</span>.</li>
+            </ol>
+        </div>
+
+        <div class="section">
+            <h2>3. Thao tác với hóa đơn</h2>
+            <ul>
+                <li>Nhấn <span class="button save">Lưu hóa đơn</span> để lưu thông tin hóa đơn vào hệ thống.</li>
+                <li>Nhấn <span class="button print">In hóa đơn...</span> để in hóa đơn.</li>
+                <li>Nhấn <span class="button refresh">Refresh</span> để làm mới toàn bộ giao diện.</li>
+                <li>Nhấn <span class="button exit">Thoát</span> để đóng màn hình làm việc.</li>
+            </ul>
+            <div class="note">
+                Các trường có dấu (*) là bắt buộc phải nhập.
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>4. Hỗ trợ</h2>
+            <p>Bạn có thể xem thêm tại:</p>
+            <ul>
+                <li><span class="button">USER GUIDE</span>: Hướng dẫn chi tiết từng bước</li>
+                <li><span class="button">FAQ</span>: Giải đáp các thắc mắc thường gặp</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

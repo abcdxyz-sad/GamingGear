@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\cuahanggaminggear\\help\\frmguide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\help\\frmguide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\cuahanggaminggear\\function\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\function\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\cuahanggaminggear\\reports\\frmthongkedoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\reports\\frmthongkedoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|i:\\linh tinh\\.net skibidi\\cuahanggaminggear\\cuahanggaminggear\\data\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\data\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|i:\\linh tinh\\.net skibidi\\cuahanggaminggear\\cuahanggaminggear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\cuahanggaminggear\\function\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\function\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\cuahanggaminggear\\main\\frmquanlycuahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\main\\frmquanlycuahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\cuahanggaminggear\\main\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\main\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|i:\\linh tinh\\.net skibidi\\cuahanggaminggear\\cuahanggaminggear\\main\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\main\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\cuahanggaminggear\\function\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\function\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|i:\\linh tinh\\.net skibidi\\cuahanggaminggear\\cuahanggaminggear\\function\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\function\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\cuahanggaminggear\\reports\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\reports\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\cuahanggaminggear\\function\\frmhoadonchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\function\\frmhoadonchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|i:\\linh tinh\\.net skibidi\\cuahanggaminggear\\cuahanggaminggear\\function\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\function\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|i:\\linh tinh\\.net skibidi\\cuahanggaminggear\\cuahanggaminggear\\function\\frmhoadonchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\function\\frmhoadonchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\cuahanggaminggear\\help\\frmhelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\help\\frmhelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\cuahanggaminggear\\main\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\main\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\cuahanggaminggear\\main\\frmloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\main\\frmloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|i:\\linh tinh\\.net skibidi\\cuahanggaminggear\\cuahanggaminggear\\main\\frmloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\main\\frmloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\cuahanggaminggear\\function\\frmloaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\function\\frmloaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|i:\\linh tinh\\.net skibidi\\cuahanggaminggear\\cuahanggaminggear\\function\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\function\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|i:\\linh tinh\\.net skibidi\\cuahanggaminggear\\cuahanggaminggear\\data\\qlbhdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\data\\qlbhdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\cuahanggaminggear\\function\\frmhangsanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89457BD1-EB3C-4DB7-AF9D-52CB4380BFA8}|CuaHangGamingGear\\CuaHangGamingGear.csproj|solutionrelative:cuahanggaminggear\\function\\frmhangsanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmLoading.cs",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Main\\frmLoading.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Main\\frmLoading.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Main\\frmLoading.cs",
+              "RelativeToolTip": "CuaHangGamingGear\\Main\\frmLoading.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAG4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:17:26.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "QLBHDbContext.cs",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Data\\QLBHDbContext.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Data\\QLBHDbContext.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Data\\QLBHDbContext.cs",
+              "RelativeToolTip": "CuaHangGamingGear\\Data\\QLBHDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:19:50.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Data\\NhanVien.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Data\\NhanVien.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Data\\NhanVien.cs",
+              "RelativeToolTip": "CuaHangGamingGear\\Data\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:24:59.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Main\\frmMain.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Main\\frmMain.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Main\\frmMain.cs",
+              "RelativeToolTip": "CuaHangGamingGear\\Main\\frmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:44:27.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmHoaDonChiTiet.cs",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Function\\frmHoaDonChiTiet.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Function\\frmHoaDonChiTiet.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Function\\frmHoaDonChiTiet.cs",
+              "RelativeToolTip": "CuaHangGamingGear\\Function\\frmHoaDonChiTiet.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAowLsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:48:30.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmHoaDon.cs",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Function\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Function\\frmHoaDon.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Function\\frmHoaDon.cs",
+              "RelativeToolTip": "CuaHangGamingGear\\Function\\frmHoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:48:19.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Program.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Program.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Program.cs",
+              "RelativeToolTip": "CuaHangGamingGear\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:39:19.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmHelp.cs [Design]",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Help\\frmHelp.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Help\\frmHelp.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Help\\frmHelp.cs [Design]",
+              "RelativeToolTip": "CuaHangGamingGear\\Help\\frmHelp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:11:15.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmGuide.cs [Design]",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Help\\frmGuide.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Help\\frmGuide.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Help\\frmGuide.cs [Design]",
+              "RelativeToolTip": "CuaHangGamingGear\\Help\\frmGuide.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:11:08.68Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmKhachHang.cs",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Function\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Function\\frmKhachHang.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Function\\frmKhachHang.cs",
+              "RelativeToolTip": "CuaHangGamingGear\\Function\\frmKhachHang.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:01:14.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmThongKeDoanhThu.cs [Design]",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Reports\\frmThongKeDoanhThu.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Reports\\frmThongKeDoanhThu.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Reports\\frmThongKeDoanhThu.cs [Design]",
+              "RelativeToolTip": "CuaHangGamingGear\\Reports\\frmThongKeDoanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:00:59.488Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmInHoaDon.cs [Design]",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Reports\\frmInHoaDon.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Reports\\frmInHoaDon.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Reports\\frmInHoaDon.cs [Design]",
+              "RelativeToolTip": "CuaHangGamingGear\\Reports\\frmInHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:00:57.78Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmQuanLyCuaHang.cs [Design]",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Main\\frmQuanLyCuaHang.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Main\\frmQuanLyCuaHang.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Main\\frmQuanLyCuaHang.cs [Design]",
+              "RelativeToolTip": "CuaHangGamingGear\\Main\\frmQuanLyCuaHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:50:28.315Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Main\\frmMain.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Main\\frmMain.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Main\\frmMain.cs [Design]",
+              "RelativeToolTip": "CuaHangGamingGear\\Main\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:50:25.844Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmLoading.cs [Design]",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Main\\frmLoading.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Main\\frmLoading.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Main\\frmLoading.cs [Design]",
+              "RelativeToolTip": "CuaHangGamingGear\\Main\\frmLoading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:50:24.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Main\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Main\\frmDangNhap.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Main\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "CuaHangGamingGear\\Main\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:50:22.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSanPham.cs [Design]",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Function\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Function\\frmSanPham.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Function\\frmSanPham.cs [Design]",
+              "RelativeToolTip": "CuaHangGamingGear\\Function\\frmSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:09:32.007Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Function\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Function\\frmNhanVien.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Function\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "CuaHangGamingGear\\Function\\frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:09:29.649Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmLoaiSanPham.cs [Design]",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Function\\frmLoaiSanPham.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Function\\frmLoaiSanPham.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Function\\frmLoaiSanPham.cs [Design]",
+              "RelativeToolTip": "CuaHangGamingGear\\Function\\frmLoaiSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:09:28.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmKhachHang.cs [Design]",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Function\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Function\\frmKhachHang.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Function\\frmKhachHang.cs [Design]",
+              "RelativeToolTip": "CuaHangGamingGear\\Function\\frmKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:09:27.56Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmHoaDonChiTiet.cs [Design]",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Function\\frmHoaDonChiTiet.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Function\\frmHoaDonChiTiet.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Function\\frmHoaDonChiTiet.cs [Design]",
+              "RelativeToolTip": "CuaHangGamingGear\\Function\\frmHoaDonChiTiet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:09:26.261Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmHoaDon.cs [Design]",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Function\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Function\\frmHoaDon.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Function\\frmHoaDon.cs [Design]",
+              "RelativeToolTip": "CuaHangGamingGear\\Function\\frmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:09:24.2Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmHangSanXuat.cs [Design]",
+              "DocumentMoniker": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Function\\frmHangSanXuat.cs",
+              "RelativeDocumentMoniker": "CuaHangGamingGear\\Function\\frmHangSanXuat.cs",
+              "ToolTip": "I:\\Linh tinh\\.Net skibidi\\CuaHangGamingGear\\CuaHangGamingGear\\Function\\frmHangSanXuat.cs [Design]",
+              "RelativeToolTip": "CuaHangGamingGear\\Function\\frmHangSanXuat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:09:19.835Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
